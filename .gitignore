@@ -1,0 +1,4 @@
+# Ignorar los módulos de python
+env/
+
+__pycache__/
